@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73f74306-1ba3-4db1-8aa6-ea793309fbe9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyveAC3iAG12FeR1tAKK6MNPKq" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/blog/templates/blog" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoshiharu\Desktop\Django\blog_clone\mysite\blog\templates\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoshiharu\Desktop\Django\blog_clone\hello" />
+      <recent name="C:\Users\Yoshiharu\Desktop\Django\blog_clone\mysite\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f74306-1ba3-4db1-8aa6-ea793309fbe9" name="Default Changelist" comment="" />
+      <created>1582031241801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582031241801</updated>
+      <workItem from="1582031243553" duration="3372000" />
+      <workItem from="1582086849717" duration="2313000" />
+      <workItem from="1583378893617" duration="16805000" />
+      <workItem from="1583459799894" duration="16675000" />
+      <workItem from="1583581387054" duration="9979000" />
+      <workItem from="1583601473087" duration="1024000" />
+      <workItem from="1583640290026" duration="774000" />
+      <workItem from="1583657390065" duration="610000" />
+      <workItem from="1583830822913" duration="2787000" />
+      <workItem from="1583916874615" duration="591000" />
+      <workItem from="1583987359136" duration="597000" />
+      <workItem from="1583995709916" duration="1093000" />
+      <workItem from="1584437407163" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
